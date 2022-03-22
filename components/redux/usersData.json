@@ -1,0 +1,119 @@
+{
+  "results": [
+    {
+      "type": "no contacts",
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Raymond", "last": "Mora" },
+      "location": {
+        "street": { "number": 6933, "name": "Calle Mota" },
+        "city": "Alcobendas",
+        "state": "La Rioja",
+        "country": "Spain",
+        "postcode": 19378,
+        "coordinates": { "latitude": "-17.6279", "longitude": "-18.7467" },
+        "timezone": { "offset": "+3:30", "description": "Tehran" }
+      },
+      "email": "carlos.cruz@example.com",
+      "login": {
+        "uuid": "329bd0c1-ef9e-459f-92f0-12723c8cef67",
+        "username": "yellowbear201",
+        "password": "brianna",
+        "salt": "59L4vK7L",
+        "md5": "de64a0628769d12f1d33a7df5319b61c",
+        "sha1": "81760b8e6aaebab22326f9cae288b7481e82898d",
+        "sha256": "80b4aa63cd3d85b94753fcb62442c1d72520455b6938ece11dc7af158df35c9e"
+      },
+      "dob": { "date": "1953-04-22T19:34:04.047Z", "age": 68 },
+      "registered": { "date": "2010-09-15T22:31:33.861Z", "age": 11 },
+      "phone": "927-589-944",
+      "cell": "622-785-984",
+      "id": { "name": "DNI", "value": "95871221-R" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/14.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Arnel", "last": "Cariaga" },
+      "location": {
+        "street": { "number": 593, "name": "George Street" },
+        "city": "Blessington",
+        "state": "Galway",
+        "country": "Ireland",
+        "postcode": 62397,
+        "coordinates": { "latitude": "36.1488", "longitude": "63.7210" },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "emily.lee@example.com",
+      "login": {
+        "uuid": "8098036479",
+        "username": "whitefish402",
+        "password": "trainer",
+        "salt": "04xyqVIK",
+        "md5": "3e0849b21795eda2ee7177ed75e09069",
+        "sha1": "08b7c519f952906b508f13b72a582a6858f73825",
+        "sha256": "f3bc99e4f07cc17451a4d8f63f9730846679ca84774ec1c9cb0768b7c20c3c1a"
+      },
+      "dob": { "date": "1978-09-12T10:58:01.327Z", "age": 43 },
+      "registered": { "date": "2014-10-11T08:10:10.171Z", "age": 7 },
+      "phone": "031-020-7405",
+      "cell": "081-215-2917",
+      "id": { "name": "PPS", "value": "2813141T" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Daniel", "last": "Audar" },
+      "location": {
+        "street": { "number": 1898, "name": "Karen Dr" },
+        "city": "Sydney",
+        "state": "Australian Capital Territory",
+        "country": "Australia",
+        "postcode": 6170,
+        "coordinates": { "latitude": "-51.9966", "longitude": "122.9451" },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "norma.hoffman@example.com",
+      "login": {
+        "uuid": "8293585957",
+        "username": "happywolf679",
+        "password": "titty",
+        "salt": "SH3Ur5w2",
+        "md5": "217ca76b62e747a7707301d4b7265ae9",
+        "sha1": "c9f01d576793c4e137b655c464ab92654799835e",
+        "sha256": "b35e6b20caf9f18d6d80af58115f182130e6096d45b4ce886c84c11a51949017"
+      },
+      "dob": { "date": "1966-01-21T10:39:55.019Z", "age": 55 },
+      "registered": { "date": "2004-01-26T00:02:20.247Z", "age": 17 },
+      "phone": "06-0873-4906",
+      "cell": "0479-486-276",
+      "id": { "name": "TFN", "value": "097569790" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "a882ed91d30cdb26",
+    "results": 50,
+    "page": 1,
+    "version": "1.3"
+  }
+}
